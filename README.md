@@ -1,2 +1,2 @@
 # Powerful tool for creators.
-[![News in telegram]()](https://t.me/power_diffusion)
+[![News in telegram]](https://t.me/power_diffusion)
