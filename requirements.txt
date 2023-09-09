@@ -1,0 +1,8 @@
+opencv-contrib-python
+controlnet_aux
+diffusers
+torch
+torchvision
+requests
+safetensors.torch
+transformers
