@@ -1,1 +1,1 @@
-# In development.
+# App in development.
