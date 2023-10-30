@@ -1,6 +1,6 @@
 import os
 import requests
-from tqdm import tqdm  # Import tqdm to display download progress
+from tqdm import tqdm
 
 def download_model_sd(save_path='', model='', model_ext=''):
     ext_list_available = ['.ckpt', '.safetensors']
