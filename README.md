@@ -1,1 +1,1 @@
-# App in development.
+# Not finished project.
